@@ -1,11 +1,9 @@
 ---
 title: Basic Docker Commands 
-published: false
+published: true
 description: description
 tags: Docker
 ---
-# Basic Docker Commands
-
 Docker is a powerful tool for creating, deploying, and running applications using containerization. Here are some basic Docker commands you might find useful:
 
 ## Pull an Image

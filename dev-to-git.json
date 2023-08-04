@@ -1,34 +1,34 @@
 [
   {
     "id": 1557905,
-    "relativePathToArticle": "./blog-posts/Fix-OpenAI-API-Errors-Azure-Functions/Fix-OpenAI-API-Errors-Azure-Functions.md"
+    "relativePathToArticle": "./blog-posts/Azure/Fix-OpenAI-API-Errors-Azure-Functions/Fix-OpenAI-API-Errors-Azure-Functions.md"
   },
   {
     "id": 1557904,
-    "relativePathToArticle": "./blog-posts/CSS-SASS-Managing-Style-Priority/CSS-SASS-Managing-Style-Priority.md"
+    "relativePathToArticle": "./blog-posts/SASS-SCSS-CSS/CSS-SASS-Managing-Style-Priority/CSS-SASS-Managing-Style-Priority.md"
   },
   {
     "id": 1557901,
-    "relativePathToArticle": "./blog-posts/Basic-Docker-Commands/Basic-Docker-Commands.md"
+    "relativePathToArticle": "./blog-posts/Docker/Basic-Docker-Commands/Basic-Docker-Commands.md"
   },
   {
     "id": 1557844,
-    "relativePathToArticle": "./blog-posts/Git-Commands-Mastering-Basics-Merge-Rebase/Git-Commands-Mastering-Basics-Merge-Rebase.md"
+    "relativePathToArticle": "./blog-posts/Git/Git-Commands-Mastering-Basics-Merge-Rebase/Git-Commands-Mastering-Basics-Merge-Rebase.md"
   },
   {
     "id": 1557840,
-    "relativePathToArticle": "./blog-posts/Getting-Started-Git-Essential-Commands/Getting-Started-Git-Essential-Commands.md"
+    "relativePathToArticle": "./blog-posts/Git/Getting-Started-Git-Essential-Commands/Getting-Started-Git-Essential-Commands.md"
   },
   {
     "id": 1557830,
-    "relativePathToArticle": "./blog-posts/Setting-Up-Logstash-Elasticsearch-Separate-Containers/Setting-Up-Logstash-Elasticsearch-Separate-Containers.md"
+    "relativePathToArticle": "./blog-posts/Logstash-Elasticsearch-Kibana/Setting-Up-Logstash-Elasticsearch-Separate-Containers/Setting-Up-Logstash-Elasticsearch-Separate-Containers.md"
   },
   {
     "id": 1557826,
-    "relativePathToArticle": "./blog-posts/Pull-Ubuntu-Image-Run-Logstash/Pull-Ubuntu-Image-Run-Logstash.md"
+    "relativePathToArticle": "./blog-posts/Logstash-Elasticsearch-Kibana/Pull-Ubuntu-Image-Run-Logstash/Pull-Ubuntu-Image-Run-Logstash.md"
   },
   {
     "id": 1557824,
-    "relativePathToArticle": "./blog-posts/Create-Run-Docker-Containers-Logstash-Elasticsearch-Kibana/Create-Run-Docker-Containers-Logstash-Elasticsearch-Kibana.md"
+    "relativePathToArticle": "./blog-posts/Logstash-Elasticsearch-Kibana/Create-Run-Docker-Containers-Logstash-Elasticsearch-Kibana/Create-Run-Docker-Containers-Logstash-Elasticsearch-Kibana.md"
   }
 ]

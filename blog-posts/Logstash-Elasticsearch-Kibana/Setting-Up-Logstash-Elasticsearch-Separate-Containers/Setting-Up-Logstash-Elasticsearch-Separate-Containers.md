@@ -1,11 +1,9 @@
 ---
 title: To set up Logstash and Elasticsearch in separate containers and send log data between them 
-published: false
+published: true
 description: description
 tags: Logstash, Elasticsearch
 ---
-# To set up Logstash and Elasticsearch in separate containers and send log data between them
-
 ## Create a Docker network named "elastic" to connect both containers:
 ```bash
 docker network create elastic

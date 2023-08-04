@@ -1,11 +1,9 @@
 ---
 title: To pull the Ubuntu image and run Logstash in an Ubuntu environment 
-published: false
+published: true
 description: description
 tags: Ubuntu, Logstash
 ---
-# To pull the Ubuntu image and run Logstash in an Ubuntu environment
-
 ## Docker Ubuntu
 Pull the latest Ubuntu image from Docker Hub using the following command:
 ```bash

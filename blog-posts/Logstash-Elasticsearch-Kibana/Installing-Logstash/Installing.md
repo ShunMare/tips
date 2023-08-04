@@ -1,11 +1,9 @@
 ---
 title: Installing Logstash 
-published: false
+published: true
 description: description
 tags: Logstash
 ---
-# Installing Logstash
-
 ## Installing from a Downloaded Binary
 
 1. Download the Logstash installation file for your host environment—​TAR.GZ, DEB, ZIP, or RPM from [here](https://www.elastic.co/downloads).

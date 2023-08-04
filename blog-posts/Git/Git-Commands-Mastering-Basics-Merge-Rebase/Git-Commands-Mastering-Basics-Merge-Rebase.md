@@ -1,11 +1,9 @@
 ---
 title: Git Commands Mastering Basics, Merge, and Rebase 
-published: false
+published: true
 description: description
-tags: git
+tags: Git
 ---
-# Git Commands: Mastering Basics, Merge, and Rebase
-
 ## Group Changes
 
 ### Lists all local branches in the current repository

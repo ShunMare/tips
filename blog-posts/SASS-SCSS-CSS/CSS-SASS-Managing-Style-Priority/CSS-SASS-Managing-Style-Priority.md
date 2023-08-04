@@ -1,11 +1,9 @@
 ---
 title: CSS and SASS Managing Style Priority 
-published: false
+published: true
 description: description
 tags: SASS, CSS
 ---
-# CSS and SASS: Managing Style Priority
-
 In CSS, style priority is determined by the rules of **specificity** and **source order**. Specificity determines which CSS rule is applied by the browsers based on matching conditions. Source order is the order in which the browsers read the CSS; later rules will override earlier ones if the specificity is the same.
 
 ## CSS Specificity

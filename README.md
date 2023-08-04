@@ -128,16 +128,16 @@ First, you have to create a token on your dev.to account: https://dev.to/setting
 The following is simply a template that you may want to use for your own version of that repository.
 
 ## APIを使用して未公開の記事のIDを取得
-Invoke-RestMethod -Uri "https://dev.to/api/articles/me/unpublished" -Headers @{"api-key"="G6hFywGQV1F2FfmpBdSFkEzP"}
+Invoke-RestMethod -Uri "https://dev.to/api/articles/me/unpublished" -Headers @{"api-key"="API-KEY"}
 
 ## APIを使用して投稿された記事のIDを取得
-$response = Invoke-RestMethod -Uri "https://dev.to/api/articles/me/published" -Headers @{"api-key"="G6hFywGQV1F2FfmpBdSFkEzP"}
+$response = Invoke-RestMethod -Uri "https://dev.to/api/articles/me/published" -Headers @{"api-key"="API-KEY"}
 foreach ($article in $response) {
 	Write-Output $article.id
 }
 
 ##　すべての情報を取得
-Invoke-RestMethod -Uri "https://dev.to/api/articles/me/all" -Headers @{"api-key"="G6hFywGQV1F2FfmpBdSFkEzP"}
+Invoke-RestMethod -Uri "https://dev.to/api/articles/me/all" -Headers @{"api-key"="API-KEY"}
 
 ## テンプレートファイルを追加
 go run make-template.go

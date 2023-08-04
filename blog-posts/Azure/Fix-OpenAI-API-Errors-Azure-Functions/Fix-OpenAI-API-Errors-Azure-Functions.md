@@ -1,11 +1,9 @@
 ---
 title: Resolving OpenAI API Authentication Errors in Azure Functions by Correctly Setting Environment Variables
-published: false
+published: true
 description: description
 tags: OpenAI, Azure
 ---
-# Resolving OpenAI API Authentication Errors in Azure Functions by Correctly Setting Environment Variables
-
 **Problem:**
 Your application hosted on Azure is not able to authenticate with the OpenAI API despite having the API key set as an environment variable.
 

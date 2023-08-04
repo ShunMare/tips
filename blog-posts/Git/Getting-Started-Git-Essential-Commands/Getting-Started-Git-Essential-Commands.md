@@ -1,13 +1,9 @@
 ---
 title: Getting Started with Git Essential Commands 
-published: false
+published: true
 description: description
 tags: Git
 ---
-# Getting Started with Git: Essential Commands
-
-# Git Commands 
-
 ## Configure Tooling
 
 Sets the name you want attached to your commit transactions
