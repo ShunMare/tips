@@ -2,7 +2,7 @@
   "name": "dev.to",
   "repository": {
     "type": "git",
-    "url": "<Paste GitHub repository URL>"
+    "url": "https://github.com/ShunMare/tips.git"
   },
   "scripts": {
     "prettier": "prettier",
@@ -15,8 +15,8 @@
     "dev-to-git": "dev-to-git"
   },
   "dependencies": {
-    "dev-to-git": "1.4.9",
-    "embedme": "1.22.0",
-    "prettier": "^2.6.2"
+    "dev-to-git": "1.4.10",
+    "embedme": "1.22.1",
+    "prettier": "^3.0.1"
   }
 }
