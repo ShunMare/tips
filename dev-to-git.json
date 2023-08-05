@@ -30,5 +30,9 @@
   {
     "id": 1557824,
     "relativePathToArticle": "./blog-posts/Logstash-Elasticsearch-Kibana/Create-Run-Docker-Containers-Logstash-Elasticsearch-Kibana/Create-Run-Docker-Containers-Logstash-Elasticsearch-Kibana.md"
+  },
+  {
+    "id": 1560336,
+    "relativePathToArticle": "./blog-posts/Git/Git-Upstream-Commands-Guide/Git-Upstream-Commands-Guide.md"
   }
 ]
