@@ -3,7 +3,7 @@ title: Creating and Running Docker Containers with Logstash, Elasticsearch, and 
 published: true
 description: description
 tags: Logstash, Elasticsearch, Kibana, Docker
-cover_image: ./assets/thumbnail.png
+cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ai2vf40cfin1l6p57isd.png
 ---
 ![Creating and Running Docker Containers with Logstash, Elasticsearch, and Kibana](./assets/flow.svg)
 ## Create `docker-compose.yml`
