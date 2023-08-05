@@ -4,7 +4,7 @@ published: true
 description: description
 tags: Logstash, Elasticsearch, Kibana, Docker
 ---
-![Creating and Running Docker Containers with Logstash, Elasticsearch, and Kibana](assets/flow.svg "Creating and Running Docker Containers with Logstash, Elasticsearch, and Kibana")
+![Creating and Running Docker Containers with Logstash, Elasticsearch, and Kibana](./assets/flow.svg)
 ## Create `docker-compose.yml`
 ```yaml
 version: '3'
