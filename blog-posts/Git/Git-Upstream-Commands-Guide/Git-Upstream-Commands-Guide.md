@@ -5,8 +5,6 @@ description: description
 tags: Git
 cover_image: 
 ---
-# Git Upstream Commands Guide
-
 Git's upstream refers to a default remote branch for a given branch. Setting an upstream makes it easier to synchronize and compare changes between the branch and its corresponding remote branch.
 
 ## Setting Up Upstream
