@@ -38,5 +38,13 @@
   {
     "id": 1560670,
     "relativePathToArticle": "./blog-posts/Python/OpenAI/LlamaIndex-Overview/LlamaIndex-Overview.md"
+  },
+  {
+    "id": 1564736,
+    "relativePathToArticle": "./blog-posts/Logstash-Elasticsearch-Kibana/Elasticsearch-Monitoring-and-Troubleshooting/Elasticsearch-Monitoring-and-Troubleshooting.md"
+  },
+  {
+    "id": 1564789,
+    "relativePathToArticle": "./blog-posts/Git/Managing-Zenn-Content-GitHub/Managing-Zenn-Content-GitHub.md"
   }
 ]
