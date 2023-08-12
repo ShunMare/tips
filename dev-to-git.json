@@ -46,5 +46,57 @@
   {
     "id": 1564789,
     "relativePathToArticle": "./blog-posts/Git/Managing-Zenn-Content-GitHub/Managing-Zenn-Content-GitHub.md"
+  },
+  {
+    "id": 1566285,
+    "relativePathToArticle": "./blog-posts/Linux/Disk-Usage-Commands-in-Linux/Disk-Usage-Commands-in-Linux.md"
+  },
+  {
+    "id": 1566274,
+    "relativePathToArticle": "./blog-posts/Windows/Permissions-and-Ownership-in-Windows/Permissions-and-Ownership-in-Windows.md"
+  },
+  {
+    "id": 1566270,
+    "relativePathToArticle": "./blog-posts/Windows/System-Operations-in-Windows/System-Operations-in-Windows.md"
+  },
+  {
+    "id": 1565885,
+    "relativePathToArticle": "./blog-posts/Windows/Text-Processing-in-Windows/Text-Processing-in-Windows.md"
+  },
+  {
+    "id": 1565881,
+    "relativePathToArticle": "./blog-posts/Windows/File-and-Directory-Operations-in-Windows-Commands/File-and-Directory-Operations-in-Windows-Commands.md"
+  },
+  {
+    "id": 1565636,
+    "relativePathToArticle": "./blog-posts/Windows/Standard-Windows-Commands-and-Their-Outputs/Standard-Windows-Commands-and-Their-Outputs.md"
+  },
+  {
+    "id": 1565597,
+  "relativePathToArticle": "./blog-posts/Windows/Windows-Command-Prompt-vs-Linux-Commands/Windows-Command-Prompt-vs-Linux-Commands.md"
+  },
+  {
+    "id": 1565580,
+    "relativePathToArticle": "./blog-posts/Linux/Disk-Usage-Commands-in-Linux/Disk-Usage-Commands-in-Linux.md"
+  },
+  {
+    "id": 1565520,
+    "relativePathToArticle": "./blog-posts/Linux/System-Operations-in-Linux/System-Operations-in-Linux.md"
+  },
+  {
+    "id": 1565507,
+    "relativePathToArticle": "./blog-posts/Linux/Permissions-and-Ownership-in-Linux/Permissions-and-Ownership-in-Linux.md"
+  },
+  {
+    "id": 1565494,
+    "relativePathToArticle": "./blog-posts/Linux/Text-Processing-in-Linux/Text-Processing-in-Linux.md"
+  },
+  {
+    "id": 1565244,
+    "relativePathToArticle": "./blog-posts/Linux/File-and-Directory-Operations-in-Linux-Commands/File-and-Directory-Operations-in-Linux-Commands.md"
+  },
+  {
+    "id": 1565239,
+    "relativePathToArticle": "./blog-posts/Linux/Standard-Linux-Commands-and-Their-Outputs/Standard-Linux-Commands-and-Their-Outputs.md"
   }
 ]

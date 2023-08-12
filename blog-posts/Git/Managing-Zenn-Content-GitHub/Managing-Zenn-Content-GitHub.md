@@ -1,6 +1,6 @@
 ---
 title: Managing Zenn content in a GitHub repository 
-published: false
+published: true
 description: description
 tags: Git, Zenn
 ---
