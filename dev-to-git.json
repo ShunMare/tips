@@ -102,5 +102,9 @@
   {
     "id": 1566500,
     "relativePathToArticle": "./blog-posts/Logstash-Elasticsearch-Kibana/Elasticsearch-Logstash-and-Kibana-Compatibility-Matrix/Elasticsearch-Logstash-and-Kibana-Compatibility-Matrix.md"
+  },
+  {
+    "id": 1566555,
+    "relativePathToArticle": "./blog-posts/Logstash-Elasticsearch-Kibana/Elasticsearch-Logstash-and-Kibana-Compatibility-Matrix/Elasticsearch-Logstash-and-Kibana-Compatibility-Matrix.md"
   }
 ]
